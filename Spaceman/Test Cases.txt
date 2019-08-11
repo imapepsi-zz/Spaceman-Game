@@ -1,0 +1,17 @@
+Test Cases for the Hangman Game
+
+\ Does the correct drawing display based on the number
+of missed letters?
+
+\ Are the missed letters displayed? 
+
+\ Are the correct letters displayed in the right order?
+
+\ Will the validiation function work?
+	- Multiple letters
+	- Repeated letters
+	- Not in Alphabet
+
+\ Game Status
+
+\ Correct and missed are updated
